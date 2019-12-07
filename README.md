@@ -8,7 +8,7 @@ The last project of the graphic branch. A general RayTracer!
 
 >RayTracing a Mesh using triangle.
 
->Different Types of light: ```Area light``` / ```Directional light``` / ```Spot light````/ ```Mix of colored area lights```.
+>Different Types of light: ```Area light``` / ```Directional light``` /  ```Spot light```/ ```Mix of colored area lights``` .
 
 >Objects limitation following the ```X``` & ```Y``` & ```Z``` axis.
 
