@@ -14,17 +14,19 @@ The last project of the graphic branch. A general RayTracer!
 
 >Texture application to 4 shapes: ```Sphere```  /  ```Cone```   /  ```Cylinder```   / ```Plane```.
 
->color mix between the texture colors and the object color.
+>Color mix between the texture colors and the object color.
 
->Stretch and move the texture following the object surface
+>Manipulation of the texture following the object surface. ```Stretch```/ ```Move```/```Repeat```
 
->Toggle of trancparency to all the objects.
+>Toggle (On/Off) of trancparency to all the objects.
 
 >The abbility to make the objects reflectant or refractant or both at the same time while also modifying the refraction index.
 
 >Adaptive supersampling anti-aliasing (JNUM).
 
->The ability to enable/disable Deapth of Field (DoF)
+>The ability to enable/disable Deapth of Field (DoF).
+
+
 
 
 # Some Scenes ScreenShots
