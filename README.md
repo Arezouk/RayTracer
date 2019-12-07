@@ -1,5 +1,5 @@
 # RayTracer-in-C
-The last project of graphic branch. A general RayTracer!
+The last project of the graphic branch. A general RayTracer!
 
 
 # Functionalities
