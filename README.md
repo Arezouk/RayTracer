@@ -2,27 +2,29 @@
 The last project of the graphic branch. A general RayTracer!
 
 
-# Functionalities
+# Features
 
 >Ray intersection of objects going from simple objects to complex ones.
 
->The ability to RayTrace a Mesh.
+>RayTracing a Mesh using triangle.
 
 >Different Types of light: ```Area light``` / ```Directional light``` / ```Spot light````/ ```Mix of colored area lights```.
 
->The ability to Limit objects following the ```X``` & ```Y``` & ```Z``` axis.
+>Objects limitation following the ```X``` & ```Y``` & ```Z``` axis.
 
->The ability to apply texturs to 4 shapes: ```Sphere```  /  ```Cone```   /  ```Cylinder```   / ```Plane```.
+>Texture application to 4 shapes: ```Sphere```  /  ```Cone```   /  ```Cylinder```   / ```Plane```.
 
->The abitity to mix the object color with the texture color.
+>color mix between the texture colors and the object color.
 
->The ability to stretch and move the texture following the surface.
+>Stretch and move the texture following the object surface
 
->The application of trancparency to all the objects.
+>Toggle of trancparency to all the objects.
 
 >The abbility to make the objects reflectant or refractant or both at the same time while also modifying the refraction index.
 
+>Adaptive supersampling anti-aliasing (JNUM).
 
+>The ability to enable/disable Deapth of Field (DoF)
 
 
 # Some Scenes ScreenShots
