@@ -3,8 +3,8 @@ The last project of graphic branch. A general RayTracer!
 
 
 # Functionalities
-
->The ability to apply texturs to 4 shapes: ```Sphere``` ```Cone``` ```Cylinder``` ```Plane```
+  
+>The ability to apply texturs to 4 shapes: ```Sphere```    ```Cone```     ```Cylinder```    ```Plane```
 
 
 
